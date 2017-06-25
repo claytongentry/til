@@ -4,5 +4,4 @@
 
 ### Networks
 
-* [How to tell if two hosts share a network](til/networks/netmask.md)
-
+* [How to tell if two hosts share a network](til/networks/shared_network.md)
