@@ -10,7 +10,7 @@ If you notice an incorrection you could correct, or a gap you could help me fill
 * [Why materialized views rock](til/databases/materialized_views.md)
 
 ### Miscellaneous
-* [What happens when I type www.google.com into my browser and press Enter](google.md)
+* [What happens when I type www.google.com into my browser and press Enter](til/miscellaneous/google.md)
 
 ### Networks
 * [What Gopher was](til/networks/gopher.md)
