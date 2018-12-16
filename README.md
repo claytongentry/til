@@ -9,6 +9,9 @@ If you notice an incorrection you could correct, or a gap you could help me fill
 ### Databases
 * [Why materialized views rock](til/databases/materialized_views.md)
 
+### Email
+* [Quoted-Printable Encoding](til/email/quoted_printable.md)
+
 ### Miscellaneous
 * [What happens when I type www.google.com into my browser and press Enter](til/miscellaneous/google.md)
 
