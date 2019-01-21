@@ -17,6 +17,7 @@ If you notice an incorrection you could correct, or a gap you could help me fill
 
 ### Miscellaneous
 * [What happens when I type www.google.com into my browser and press Enter](til/miscellaneous/google.md)
+* [Javascript is like water](til/miscellaneous/water.md)
 
 ### Networks
 * [What Gopher was](til/networks/gopher.md)
