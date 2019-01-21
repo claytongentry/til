@@ -9,6 +9,9 @@ If you notice an incorrection you could correct, or a gap you could help me fill
 ### Databases
 * [Why materialized views rock](til/databases/materialized_views.md)
 
+#### Ecto
+* [Repo.Stream](til/databases/ecto/repo.stream.md)
+
 ### Email
 * [Quoted-Printable Encoding](til/email/quoted_printable.md)
 
